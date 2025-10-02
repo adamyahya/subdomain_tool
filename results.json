@@ -1,0 +1,846 @@
+[
+  {
+    "name": "ads.google.com",
+    "ips": [
+      "142.251.209.46",
+      "2a00:1450:4002:411::200e"
+    ]
+  },
+  {
+    "name": "accounts.google.com",
+    "ips": [
+      "74.125.71.84",
+      "2a00:1450:400c:c02::54"
+    ]
+  },
+  {
+    "name": "admin.google.com",
+    "ips": [
+      "142.251.209.14",
+      "2a00:1450:4002:410::200e"
+    ]
+  },
+  {
+    "name": "alt1.gmail-smtp-in.l.google.com",
+    "ips": [
+      "192.178.213.26",
+      "2a00:1450:4013:c1e::1a"
+    ]
+  },
+  {
+    "name": "alt1.aspmx.l.google.com",
+    "ips": [
+      "192.178.213.27",
+      "2a00:1450:4013:c1e::1a"
+    ]
+  },
+  {
+    "name": "alt1.gmr-smtp-in.l.google.com",
+    "ips": [
+      "192.178.213.14",
+      "2a00:1450:4013:c1e::e"
+    ]
+  },
+  {
+    "name": "adwords.google.com",
+    "ips": [
+      "142.251.168.138",
+      "142.251.168.139",
+      "142.251.168.100",
+      "142.251.168.101",
+      "142.251.168.113",
+      "142.251.168.102",
+      "2a00:1450:400c:c1d::64",
+      "2a00:1450:400c:c1d::66",
+      "2a00:1450:400c:c1d::8b",
+      "2a00:1450:400c:c1d::65"
+    ]
+  },
+  {
+    "name": "alt2.aspmx.l.google.com",
+    "ips": [
+      "142.250.147.27",
+      "2a00:1450:4025:c01::1b"
+    ]
+  },
+  {
+    "name": "alt2.gmail-smtp-in.l.google.com",
+    "ips": [
+      "142.250.147.26",
+      "2a00:1450:4025:c01::1a"
+    ]
+  },
+  {
+    "name": "alt2.gmr-smtp-in.l.google.com",
+    "ips": [
+      "142.250.147.14",
+      "2a00:1450:4025:c01::e"
+    ]
+  },
+  {
+    "name": "alt3.gmail-smtp-in.l.google.com",
+    "ips": [
+      "74.125.131.26",
+      "2a00:1450:4010:c0e::1b"
+    ]
+  },
+  {
+    "name": "alt3.gmr-smtp-in.l.google.com",
+    "ips": [
+      "74.125.131.14",
+      "2a00:1450:4010:c0e::e"
+    ]
+  },
+  {
+    "name": "alt3.aspmx.l.google.com",
+    "ips": [
+      "74.125.131.27",
+      "2a00:1450:4010:c0e::1b"
+    ]
+  },
+  {
+    "name": "alt4.aspmx.l.google.com",
+    "ips": [
+      "142.250.4.27",
+      "2404:6800:4003:c06::1b"
+    ]
+  },
+  {
+    "name": "alt4.gmail-smtp-in.l.google.com",
+    "ips": [
+      "142.250.4.26",
+      "2404:6800:4003:c06::1a"
+    ]
+  },
+  {
+    "name": "alt4.gmr-smtp-in.l.google.com",
+    "ips": [
+      "142.250.4.14",
+      "2404:6800:4003:c06::e"
+    ]
+  },
+  {
+    "name": "answers.google.com",
+    "ips": [
+      "142.251.209.46",
+      "2a00:1450:4002:411::200e",
+      "www3.l.google.com"
+    ]
+  },
+  {
+    "name": "api.google.com",
+    "ips": [
+      "142.251.209.4",
+      "api.l.google.com"
+    ]
+  },
+  {
+    "name": "appengine.google.com",
+    "ips": [
+      "142.251.209.46",
+      "2a00:1450:4002:411::200e",
+      "www3.l.google.com"
+    ]
+  },
+  {
+    "name": "aspmx.l.google.com",
+    "ips": [
+      "74.125.133.27",
+      "2a00:1450:400c:c07::1a"
+    ]
+  },
+  {
+    "name": "apps.google.com",
+    "ips": [
+      "142.251.209.46",
+      "2a00:1450:4002:411::200e",
+      "www3.l.google.com"
+    ]
+  },
+  {
+    "name": "audioads.google.com",
+    "ips": [
+      "142.250.180.142",
+      "audioads.l.google.com"
+    ]
+  },
+  {
+    "name": "bigstore.corp.google.com",
+    "ips": [
+      "173.194.69.129",
+      "2a00:1450:4013:c04::81",
+      "uberproxy.l.google.com"
+    ]
+  },
+  {
+    "name": "blog.google.com",
+    "ips": [
+      "216.58.204.233",
+      "2a00:1450:4002:415::2009",
+      "www.blogger.com",
+      "blogger.l.google.com"
+    ]
+  },
+  {
+    "name": "cert-test.sandbox.google.com",
+    "ips": [
+      "173.194.76.90",
+      "2a00:1450:400c:c00::5a"
+    ]
+  },
+  {
+    "name": "chat.google.com",
+    "ips": [
+      "216.58.204.142",
+      "2a00:1450:4002:414::200e"
+    ]
+  },
+  {
+    "name": "client-channel.google.com",
+    "ips": [
+      "142.251.209.14",
+      "2a00:1450:4002:410::200e"
+    ]
+  },
+  {
+    "name": "chrome.google.com",
+    "ips": [
+      "142.251.209.46",
+      "2a00:1450:4002:411::200e",
+      "www3.l.google.com"
+    ]
+  },
+  {
+    "name": "cod.ext.google.com",
+    "ips": [
+      "216.239.44.73"
+    ]
+  },
+  {
+    "name": "cloud.google.com",
+    "ips": [
+      "142.251.209.46",
+      "2a00:1450:4002:411::200e"
+    ]
+  },
+  {
+    "name": "corp.google.com",
+    "ips": [
+      "142.250.145.129",
+      "2a00:1450:4013:c14::81"
+    ]
+  },
+  {
+    "name": "code.google.com",
+    "ips": [
+      "142.250.180.142",
+      "2a00:1450:4002:402::200e",
+      "code.l.google.com"
+    ]
+  },
+  {
+    "name": "dasher-qa.corp.google.com",
+    "ips": [
+      "173.194.69.129",
+      "2a00:1450:4013:c04::81",
+      "uberproxy.l.google.com"
+    ]
+  },
+  {
+    "name": "devconsole-testers.sandbox.google.com",
+    "ips": [
+      "64.233.167.81",
+      "2a00:1450:400c:c0a::451"
+    ]
+  },
+  {
+    "name": "dasher.corp.google.com",
+    "ips": [
+      "173.194.69.129",
+      "2a00:1450:4013:c04::81",
+      "uberproxy.l.google.com"
+    ]
+  },
+  {
+    "name": "developer.google.com",
+    "ips": [
+      "142.251.209.46",
+      "2a00:1450:4002:411::200e"
+    ]
+  },
+  {
+    "name": "developers.google.com",
+    "ips": [
+      "216.58.204.238",
+      "2a00:1450:4002:415::200e"
+    ]
+  },
+  {
+    "name": "dns.google.com",
+    "ips": [
+      "8.8.4.4",
+      "8.8.8.8",
+      "2001:4860:4860::8888",
+      "2001:4860:4860::8844"
+    ]
+  },
+  {
+    "name": "dg.video.google.com",
+    "ips": [
+      "108.177.127.176",
+      "2a00:1450:4013:c07::b0"
+    ]
+  },
+  {
+    "name": "docs.sandbox.google.com",
+    "ips": [
+      "66.102.1.81",
+      "2a00:1450:400c:c06::451"
+    ]
+  },
+  {
+    "name": "docs.google.com",
+    "ips": [
+      "142.251.209.46",
+      "2a00:1450:4002:411::200e"
+    ]
+  },
+  {
+    "name": "docs-dev.corp.google.com",
+    "ips": [
+      "173.194.69.129",
+      "2a00:1450:4013:c04::81",
+      "uberproxy.l.google.com"
+    ]
+  },
+  {
+    "name": "docs-qa.corp.google.com",
+    "ips": [
+      "173.194.69.129",
+      "2a00:1450:4013:c04::81",
+      "uberproxy.l.google.com"
+    ]
+  },
+  {
+    "name": "drive.sandbox.google.com",
+    "ips": [
+      "64.233.166.81",
+      "2a00:1450:400c:c09::451"
+    ]
+  },
+  {
+    "name": "drive.google.com",
+    "ips": [
+      "216.58.205.46",
+      "2a00:1450:4002:416::200e"
+    ]
+  },
+  {
+    "name": "download.google.com",
+    "ips": [
+      "216.58.205.36",
+      "2a00:1450:4002:416::2004",
+      "www2.l.google.com"
+    ]
+  },
+  {
+    "name": "eggroll.ext.google.com",
+    "ips": [
+      "216.239.44.90"
+    ]
+  },
+  {
+    "name": "ecc-test.sandbox.google.com",
+    "ips": [
+      "66.102.1.81",
+      "2a00:1450:400c:c06::451"
+    ]
+  },
+  {
+    "name": "files.google.com",
+    "ips": [
+      "142.251.209.46",
+      "2a00:1450:4002:411::200e",
+      "www3.l.google.com"
+    ]
+  },
+  {
+    "name": "email.google.com",
+    "ips": [
+      "142.251.209.46",
+      "2a00:1450:4002:411::200e",
+      "gmail.google.com",
+      "www3.l.google.com"
+    ]
+  },
+  {
+    "name": "friendconnect.google.com",
+    "ips": [
+      "142.251.209.46",
+      "2a00:1450:4002:411::200e",
+      "www3.l.google.com"
+    ]
+  },
+  {
+    "name": "git.corp.google.com",
+    "ips": [
+      "173.194.69.129",
+      "2a00:1450:4013:c04::81",
+      "uberproxy.l.google.com"
+    ]
+  },
+  {
+    "name": "gmail-smtp-in.l.google.com",
+    "ips": [
+      "142.251.168.27",
+      "2a00:1450:400c:c1d::1b"
+    ]
+  },
+  {
+    "name": "gmr-smtp-in.l.google.com",
+    "ips": [
+      "173.194.76.14",
+      "2a00:1450:400c:c00::e"
+    ]
+  },
+  {
+    "name": "home.google.com",
+    "ips": [
+      "142.251.209.46",
+      "2a00:1450:4002:411::200e"
+    ]
+  },
+  {
+    "name": "google.com",
+    "ips": [
+      "142.251.209.14",
+      "2a00:1450:4002:410::200e"
+    ]
+  },
+  {
+    "name": "gmail.google.com",
+    "ips": [
+      "142.251.209.46",
+      "2a00:1450:4002:411::200e",
+      "www3.l.google.com"
+    ]
+  },
+  {
+    "name": "help.google.com",
+    "ips": [
+      "142.251.209.46",
+      "2a00:1450:4002:411::200e",
+      "www3.l.google.com"
+    ]
+  },
+  {
+    "name": "ldap.google.com",
+    "ips": [
+      "216.239.32.58",
+      "2001:4860:4802:32::3a"
+    ]
+  },
+  {
+    "name": "jmt0.google.com",
+    "ips": [
+      "142.251.209.46",
+      "2a00:1450:4002:411::200e",
+      "www3.l.google.com"
+    ]
+  },
+  {
+    "name": "ipv4.google.com",
+    "ips": [
+      "216.58.209.46",
+      "ipv4.l.google.com"
+    ]
+  },
+  {
+    "name": "images.google.com",
+    "ips": [
+      "216.58.205.46",
+      "2a00:1450:4002:416::200e",
+      "images.l.google.com"
+    ]
+  },
+  {
+    "name": "login.corp.google.com",
+    "ips": [
+      "173.194.69.129",
+      "2a00:1450:4013:c04::81",
+      "uberproxy.l.google.com"
+    ]
+  },
+  {
+    "name": "mail.google.com",
+    "ips": [
+      "216.58.204.133",
+      "2a00:1450:4002:414::2005"
+    ]
+  },
+  {
+    "name": "m.google.com",
+    "ips": [
+      "142.250.180.139",
+      "2a00:1450:4002:402::200b",
+      "mobile.l.google.com"
+    ]
+  },
+  {
+    "name": "m.guts.corp.google.com",
+    "ips": [
+      "173.194.69.129",
+      "2a00:1450:4013:c04::81",
+      "uberproxy.l.google.com"
+    ]
+  },
+  {
+    "name": "m.gutsdev.corp.google.com",
+    "ips": [
+      "173.194.69.129",
+      "2a00:1450:4013:c04::81",
+      "uberproxy.l.google.com"
+    ]
+  },
+  {
+    "name": "mtv-da.ext.google.com",
+    "ips": [
+      "216.239.45.170"
+    ]
+  },
+  {
+    "name": "mobile.google.com",
+    "ips": [
+      "142.250.180.139",
+      "2a00:1450:4002:402::200b",
+      "mobile.l.google.com"
+    ]
+  },
+  {
+    "name": "mtalk.google.com",
+    "ips": [
+      "108.177.96.188",
+      "2a00:1450:4013:c04::bc",
+      "mobile-gtalk.l.google.com",
+      "142.250.153.188",
+      "2a00:1450:4013:c08::bc"
+    ]
+  },
+  {
+    "name": "ns.google.com",
+    "ips": [
+      "216.239.32.10"
+    ]
+  },
+  {
+    "name": "news.google.com",
+    "ips": [
+      "216.58.204.238",
+      "2a00:1450:4002:415::200e"
+    ]
+  },
+  {
+    "name": "ns1.google.com",
+    "ips": [
+      "216.239.32.10",
+      "2001:4860:4802:32::a"
+    ]
+  },
+  {
+    "name": "ns2.google.com",
+    "ips": [
+      "216.239.34.10",
+      "2001:4860:4802:34::a"
+    ]
+  },
+  {
+    "name": "ns3.google.com",
+    "ips": [
+      "216.239.36.10",
+      "2001:4860:4802:36::a"
+    ]
+  },
+  {
+    "name": "ns4.google.com",
+    "ips": [
+      "216.239.38.10",
+      "2001:4860:4802:38::a"
+    ]
+  },
+  {
+    "name": "photos.google.com",
+    "ips": [
+      "216.58.204.238",
+      "2a00:1450:4002:415::200e"
+    ]
+  },
+  {
+    "name": "plus.google.com",
+    "ips": [
+      "216.58.205.46",
+      "2a00:1450:4002:416::200e"
+    ]
+  },
+  {
+    "name": "prom-test.sandbox.google.com",
+    "ips": [
+      "142.250.110.81",
+      "2a00:1450:400c:c0d::451"
+    ]
+  },
+  {
+    "name": "script.sandbox.google.com",
+    "ips": [
+      "108.177.15.81",
+      "2a00:1450:400c:c0c::451"
+    ]
+  },
+  {
+    "name": "prom.corp.google.com",
+    "ips": [
+      "173.194.69.129",
+      "2a00:1450:4013:c04::81",
+      "uberproxy.l.google.com"
+    ]
+  },
+  {
+    "name": "sandbox.google.com",
+    "ips": [
+      "74.125.71.81",
+      "2a00:1450:400c:c02::451"
+    ]
+  },
+  {
+    "name": "proxyconfig.corp.google.com",
+    "ips": [
+      "173.194.69.129",
+      "2a00:1450:4013:c04::81",
+      "uberproxy.l.google.com"
+    ]
+  },
+  {
+    "name": "shop.google.com",
+    "ips": [
+      "74.125.71.92",
+      "2a00:1450:400c:c02::5c"
+    ]
+  },
+  {
+    "name": "search.corp.google.com",
+    "ips": [
+      "173.194.69.129",
+      "2a00:1450:4013:c04::81",
+      "uberproxy.l.google.com"
+    ]
+  },
+  {
+    "name": "search.google.com",
+    "ips": [
+      "142.251.209.46",
+      "2a00:1450:4002:411::200e",
+      "www3.l.google.com"
+    ]
+  },
+  {
+    "name": "services.google.com",
+    "ips": [
+      "142.251.209.46",
+      "2a00:1450:4002:411::200e",
+      "www3.l.google.com"
+    ]
+  },
+  {
+    "name": "sites.google.com",
+    "ips": [
+      "142.250.180.142",
+      "2a00:1450:4002:402::200e"
+    ]
+  },
+  {
+    "name": "sites.sandbox.google.com",
+    "ips": [
+      "142.250.110.81",
+      "2a00:1450:400c:c0d::451"
+    ]
+  },
+  {
+    "name": "smtp.google.com",
+    "ips": [
+      "64.233.167.26",
+      "74.125.206.26",
+      "64.233.166.27",
+      "74.125.206.27",
+      "64.233.167.27",
+      "2a00:1450:400c:c04::1b",
+      "2a00:1450:400c:c04::1a",
+      "2a00:1450:400c:c0a::1b",
+      "2a00:1450:400c:c0a::1a"
+    ]
+  },
+  {
+    "name": "soaproxytest01.ext.google.com",
+    "ips": [
+      "216.239.44.94"
+    ]
+  },
+  {
+    "name": "sms.google.com",
+    "ips": [
+      "142.251.209.46",
+      "2a00:1450:4002:411::200e",
+      "www3.l.google.com"
+    ]
+  },
+  {
+    "name": "soaproxyprod01.ext.google.com",
+    "ips": [
+      "72.14.225.70",
+      "corp-soaproxyprod.l.google.com"
+    ]
+  },
+  {
+    "name": "staging-git.corp.google.com",
+    "ips": [
+      "173.194.69.129",
+      "2a00:1450:4013:c04::81",
+      "uberproxy.l.google.com"
+    ]
+  },
+  {
+    "name": "store.google.com",
+    "ips": [
+      "216.58.204.238",
+      "2a00:1450:4002:415::200e"
+    ]
+  },
+  {
+    "name": "survey.google.com",
+    "ips": [
+      "142.251.209.46",
+      "2a00:1450:4002:411::200e"
+    ]
+  },
+  {
+    "name": "support.google.com",
+    "ips": [
+      "142.251.209.46",
+      "2a00:1450:4002:411::200e"
+    ]
+  },
+  {
+    "name": "twd-da.ext.google.com",
+    "ips": [
+      "72.14.229.178"
+    ]
+  },
+  {
+    "name": "tv.google.com",
+    "ips": [
+      "142.251.209.46",
+      "2a00:1450:4002:411::200e",
+      "www3.l.google.com"
+    ]
+  },
+  {
+    "name": "talkgadget.google.com",
+    "ips": [
+      "216.58.204.142",
+      "2a00:1450:4002:414::200e",
+      "talkgadget.l.google.com"
+    ]
+  },
+  {
+    "name": "uberproxy.corp.google.com",
+    "ips": [
+      "173.194.69.129",
+      "2a00:1450:4013:c04::81",
+      "uberproxy.l.google.com"
+    ]
+  },
+  {
+    "name": "upload.google.com",
+    "ips": [
+      "142.251.209.47",
+      "2a00:1450:4002:411::200f",
+      "large-uploads.l.google.com"
+    ]
+  },
+  {
+    "name": "upload.video.google.com",
+    "ips": [
+      "142.250.180.175",
+      "2a00:1450:4002:403::200f",
+      "sslvideo-upload.l.google.com"
+    ]
+  },
+  {
+    "name": "vpn.google.com",
+    "ips": [
+      "64.9.224.70",
+      "64.9.224.69",
+      "64.9.224.68"
+    ]
+  },
+  {
+    "name": "video.google.com",
+    "ips": [
+      "142.251.143.174",
+      "2a00:1450:402a:80e::200e",
+      "video.l.google.com"
+    ]
+  },
+  {
+    "name": "wap.google.com",
+    "ips": [
+      "142.251.209.46",
+      "2a00:1450:4002:411::200e",
+      "www3.l.google.com"
+    ]
+  },
+  {
+    "name": "web.google.com",
+    "ips": [
+      "142.251.209.46",
+      "2a00:1450:4002:411::200e",
+      "www3.l.google.com"
+    ]
+  },
+  {
+    "name": "webdrive-test-canary.corp.google.com",
+    "ips": [
+      "173.194.69.129",
+      "2a00:1450:4013:c04::81",
+      "uberproxy.l.google.com"
+    ]
+  },
+  {
+    "name": "webdrive-test-prod.corp.google.com",
+    "ips": [
+      "173.194.69.129",
+      "2a00:1450:4013:c04::81",
+      "uberproxy.l.google.com"
+    ]
+  },
+  {
+    "name": "www.google.com",
+    "ips": [
+      "142.250.180.164",
+      "2a00:1450:4002:403::2004"
+    ]
+  },
+  {
+    "name": "wifi.google.com",
+    "ips": [
+      "74.125.143.123",
+      "wifi.l.google.com"
+    ]
+  },
+  {
+    "name": "www4.google.com",
+    "ips": [
+      "142.251.143.142",
+      "2a00:1450:402a:80d::200e",
+      "www4.l.google.com"
+    ]
+  }
+]
